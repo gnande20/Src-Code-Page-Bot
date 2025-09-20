@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node votre_fichier_principal.js"
+  "start": "node package.js"
 }
   "keywords": [],
   "author": "",
